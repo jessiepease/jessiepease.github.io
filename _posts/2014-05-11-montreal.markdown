@@ -1,0 +1,17 @@
+---
+layout: post
+---
+
+I went to Montreal, QC for Pycon in April of 2014. Flying across the country for a
+weekend was obviously a challenge, but also an adventure. Through this trip, I learned
+about the Canadian culture, recent political changes, and the culture that revolved
+around speaking French. I had a wonderful experience at the Pycon Conference as well. The
+talks I found most interesting were 
+[The Sorry State of SSL](http://pyvideo.org/video/2651/the-sorry-state-of-ssl) and 
+<a href="http://pyvideo.org/video/2570/the-young-coder-lets-learn-python">Young Coders</a>.
+
+<p>
+I also had the opportunity to spend time with my mentor, Julia Grace from Tindie.
+She introduced me to a bunch of amazing Pythonistas. It was an amazing experience
+to spend time with her across the country!
+</p>
