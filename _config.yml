@@ -16,7 +16,7 @@
 title: Jessie Pease
 email: jessie@jessiepease.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am awesome!
+  Hej! I'm Jessie Pease, a software engineer and explorer. This is a landing page for things I want to share about work, life, or travel. Skål!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: peasejessie
