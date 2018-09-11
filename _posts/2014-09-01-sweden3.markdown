@@ -1,17 +1,38 @@
 ---
 layout: post
+title: Utforska
 ---
 
 As the first week of exploring wraps up, I want to share a few more pictures with everyone! What I've noticed is that most people when traveling only take pictures of the scenery and the buildings. When you look back through photographs many years later, you want to see YOU in those places, so I'm starting to make an active effort to put me and my friends in our photos. Exhibit A:
 
+![City Hall](/assets/swedenblog/sweden3_boysincityhall.jpg)
+
 The day that photo above was taken, Alex, Kevin, and I explored city hall, Gamla Stan (Old Town), and got fika. I'm obsessed with panoramas, so here's a few for your enjoyment ;)
+
+![City Hall](/assets/swedenblog/sweden3_cityhallpano1.jpg)
+
+![City Hall](/assets/swedenblog/sweden3_cityhallpano2.jpg)
 
 We also decided to pose with one of the statues at city hall by the water. When in Stockholm, do as the statues do!
 
+![City Hall](/assets/swedenblog/sweden3_posewithstatue.jpg)
+
 Later that day we went to a party hosted by Stockholm University. Europeans party really late... honestly I don't think I can keep up with it. It is completely normal to go out at midnight and not get home until 3 or 4AM. According to my friends from other European countries, the Swedes don't even stay out that late! Some of my other friends will go out literally all night until morning... That's commitment.   
+
+![City Hall](/assets/swedenblog/sweden3_party1.jpg)
 
 My group of friends also decided to visit Skansen this weekend as well. Skansen is like a Swedish culture and animal park. They have animals to go and see (like a Zoo), but only animals native to Sweden. There are also buildings from different parts of Sweden so you can get a feel for the differences between architecture, style, and culture from each part of Sweden. 
 
+<div class="gallery" data-columns="3">
+    <img src="/assets/swedenblog/sweden3_skansen.jpg">
+    <img src="/assets/swedenblog/sweden3_skansengroup.jpg">
+    <img src="/assets/swedenblog/sweden3_grouplookingatsign.jpg">
+</div> 
+
 In Sweden, a tradition dinner party is called a Gasque. The KTH Student Union put on a Gasque for all of the exchange students. Almost all of the food was fish, which I really don't eat. (See below :P), but the experience was fun. We sang traditional Swedish drinking songs, we sang happy birthday in 9 different languages to one of the international students, and we learned a few games from other countries as well. Such a melting pot dinner!
 
+![City Hall](/assets/swedenblog/sweden3_gasque.jpg)
+
 And of course it wouldn't be a proper #peasewithswedes blog post without a picture of a rain storm. 
+
+![City Hall](/assets/swedenblog/sweden3_rainpano.jpg)

@@ -9,21 +9,17 @@ Utländske means Foreign in Swedish, and nØlla means Zero. Here at KTH all of t
 
 ![More Overalls](/assets/swedenblog/sweden2_overalls2.jpg)
 
-The last few days have been spent site seeing, making new friends, and getting to know the KTH campus. I visited the Palace, explored more on Galma Stan, walked around the city (a lot), took a second trip to IKEA, and participated in KTH new student events. Here's a few pictures of the adventures! 
+The last few days have been spent site seeing, making new friends, and getting to know the KTH campus. I visited the Palace, explored more on Galma Stan, walked around the city (a lot), took a second trip to IKEA, and participated in KTH new student events. Here's a few pictures of the adventures!
 
-![City View](/assets/swedenblog/sweden2_panoofcity.jpg)
-
-![Panorama](/assets/swedenblog/sweden2_panoofcity2.jpg)
-
-![Palace](/assets/swedenblog/sweden2_palacepano.jpg)
-
-![Female Guard](/assets/swedenblog/sweden2_femaleguard.jpg)
-
-![Statue outside palace](/assets/swedenblog/sweden2_panoofstatue.jpg)
-
-![Older T-Bana Train](/assets/swedenblog/sweden2_oldbus.jpg)
-
-![Family Ikea Trip](/assets/swedenblog/sweden2_familyatikea.jpg)
+<div class="gallery" data-columns="3">
+    <img src="/assets/swedenblog/sweden2_panoofcity.jpg">
+    <img src="/assets/swedenblog/sweden2_panoofcity2.jpg">
+    <img src="/assets/swedenblog/sweden2_palacepano.jpg">
+    <img src="/assets/swedenblog/sweden2_femaleguard.jpg">
+    <img src="/assets/swedenblog/sweden2_panoofstatue.jpg">
+    <img src="/assets/swedenblog/sweden2_oldbus.jpg">
+    <img src="/assets/swedenblog/sweden2_familyatikea.jpg">
+</div> 
 
 On Sunday August 24, Matt (also from Cal Poly) and I took a trip to find the best Kanelbullar in town. It was absolutely enormous, but so amazing! :P Kanelbullar are the cinnamon buns that Sweden is famous for. They sell them in every cafe, 7Eleven, and grocery store in town. We also adventured through the city and found this really cool skinny pathway (which other people seemed to think was important as well). This was the day we also went on top of a super tall building and took the gorgeous panoramas of the city (as seen above). 
 

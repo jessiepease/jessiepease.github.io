@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Bremen, Berlin, and Beers
 ---
 
 Sorry it's been so long since I updated you all! I am going into my last month of school at KTH,
